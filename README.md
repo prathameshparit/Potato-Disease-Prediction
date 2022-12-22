@@ -4,6 +4,10 @@
 
 Potato is one of the most significant food crops. The diseases cause substantial yield loss in potato. Early detection of these diseases can allow to take preventive measures and mitigate economic and production losses. Over the last decades, the most practiced approach for the detection and identification of plant diseases is naked eye observation by experts. But in many cases, this approach proves unfeasible due to the excessive processing time and unavailability of experts at farms located in remote areas. Hence the problem statement for research work is defined as “AI BASED CROP HEALTH MANAGEMENT SYSTEM TO INCREASE THE PRODUCE”
 
+## Website:
+![Gif](https://github.com/prathameshparit/Potato-Disease-Prediction/blob/bff4d32202091819bedf1844b75316b3e7b504b2/Potato-Disease.gif?raw=true)
+
+
 ### The project includes these points for potato disease detection:
 - Comparative analysis of various disease detection methods for automated potato crop disease detection.
 - Prepared a dataset for early detection of various potato crop diseases using python with ML.
