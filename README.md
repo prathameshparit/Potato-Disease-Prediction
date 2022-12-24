@@ -5,7 +5,8 @@
 Potato is one of the most significant food crops. The diseases cause substantial yield loss in potato. Early detection of these diseases can allow to take preventive measures and mitigate economic and production losses. Over the last decades, the most practiced approach for the detection and identification of plant diseases is naked eye observation by experts. But in many cases, this approach proves unfeasible due to the excessive processing time and unavailability of experts at farms located in remote areas. Hence the problem statement for research work is defined as “AI BASED CROP HEALTH MANAGEMENT SYSTEM TO INCREASE THE PRODUCE”
 
 ## Demo:
-![Gif](https://github.com/prathameshparit/Potato-Disease-Prediction/blob/bff4d32202091819bedf1844b75316b3e7b504b2/Potato-Disease.gif?raw=true)
+
+https://user-images.githubusercontent.com/63944541/209446705-8dc40b11-08bd-4b68-b32d-f9fb69b2ae66.mov
 
 
 ### The project includes these points for potato disease detection:
@@ -63,47 +64,6 @@ The website uses a number of open source projects to work properly:
 - [Numpy] - Used for working with arrays
 - [Pandas] - Used for data analysis and associated manipulation of tabular data in Dataframes
 
-## Screenshots and Steps
-
-**1. Landing Page:**
-
-- This is the landing page for the web application 
-
-- ![App Screenshot](https://github.com/prathameshparit/Dummy-Storage/blob/95a67f825a4e8932a6caa28f9147a8a4dee0af66/readme%20images/Upload/landing.png?raw=true)
-
-**2. Upload button:**
- 
-- Later on the web application it provides 3 different buttons along with a upload button where you upload your input image of potato plant disease and later it provides you with 3 buttons of Preprocessing, Feature Extraction and Prediction of the uploaded image
-
-- ![App Screenshot](https://github.com/prathameshparit/Dummy-Storage/blob/95a67f825a4e8932a6caa28f9147a8a4dee0af66/readme%20images/Upload/upload.png?raw=true)
-
-**3. Preprocessing:**
-
-
-- After uploading the image the image needs to be preprocessed where it is preprocessing using two techniques which is Resizing of the uploaded input image from it's original size to the size which is required for the image to predict on.
-
-- ![App Screenshot](https://github.com/prathameshparit/Dummy-Storage/blob/95a67f825a4e8932a6caa28f9147a8a4dee0af66/readme%20images/Upload/prepro.png?raw=true)
-
-- After resizing of the image Data Augmentation is applied on the input image  
-- ![App Screenshot](https://github.com/prathameshparit/Dummy-Storage/blob/95a67f825a4e8932a6caa28f9147a8a4dee0af66/readme%20images/Upload/dataaug.png?raw=true)
-
-**5. Feature Extraction :**
-
-- After Preprocessing comes the part of Feature Extraction where we extract important features of the input image by converting the uploaded image from RGB to HSV and pointing out the important parts required for the model to predict the following image
-
-- ![App Screenshot](https://github.com/prathameshparit/Dummy-Storage/blob/95a67f825a4e8932a6caa28f9147a8a4dee0af66/readme%20images/Upload/hsv.png?raw=true)
-
-**6. Classifiers :**
-
-- After the Feature Extraction comes the part of Prediction where the project is trained on 7 different classifiers which are SVM, KNN, ANN, DT, CNN, Hybrid(SVM+ANN), Hybrid2(CNN+KNN) and it displays it's prediction on those 7 classifiers along with the confidence at which it has predicted the following image 
-- ![App Screenshot](https://github.com/prathameshparit/Dummy-Storage/blob/95a67f825a4e8932a6caa28f9147a8a4dee0af66/readme%20images/Upload/classi.png?raw=true)
-
-- If you click on any of the classifiers it further shows you the classification metrics on that particular classifier along with the visualization of that model
--![App Screenshot](https://github.com/prathameshparit/Dummy-Storage/blob/95a67f825a4e8932a6caa28f9147a8a4dee0af66/readme%20images/Upload/metrics.png?raw=true)
-
-**7. Comparitive Analysis :**
-- At last the application provides you with a comparitive analysis of all the classifiers where you can compare the accuracy of each classfier side by side in the format of table as well as graph
-- ![App Screenshot](https://github.com/prathameshparit/Dummy-Storage/blob/95a67f825a4e8932a6caa28f9147a8a4dee0af66/readme%20images/Upload/comparitive.png?raw=true)
 
 ## Results
 
