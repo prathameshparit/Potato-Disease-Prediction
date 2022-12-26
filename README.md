@@ -1,5 +1,5 @@
 # Potato Plant Disease Prediction
-
+  
 
 
 Potato is one of the most significant food crops. The diseases cause substantial yield loss in potato. Early detection of these diseases can allow to take preventive measures and mitigate economic and production losses. Over the last decades, the most practiced approach for the detection and identification of plant diseases is naked eye observation by experts. But in many cases, this approach proves unfeasible due to the excessive processing time and unavailability of experts at farms located in remote areas. Hence the problem statement for research work is defined as “AI BASED CROP HEALTH MANAGEMENT SYSTEM TO INCREASE THE PRODUCE”
